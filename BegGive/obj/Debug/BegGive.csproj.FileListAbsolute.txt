@@ -1,0 +1,8 @@
+C:\Users\Chtholly\Documents\Tutorial\BegGive\bin\Debug\BegGive.exe.config
+C:\Users\Chtholly\Documents\Tutorial\BegGive\bin\Debug\BegGive.exe
+C:\Users\Chtholly\Documents\Tutorial\BegGive\bin\Debug\BegGive.pdb
+C:\Users\Chtholly\Documents\Tutorial\BegGive\obj\Debug\BegGive.csproj.AssemblyReference.cache
+C:\Users\Chtholly\Documents\Tutorial\BegGive\obj\Debug\BegGive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chtholly\Documents\Tutorial\BegGive\obj\Debug\BegGive.csproj.CoreCompileInputs.cache
+C:\Users\Chtholly\Documents\Tutorial\BegGive\obj\Debug\BegGive.exe
+C:\Users\Chtholly\Documents\Tutorial\BegGive\obj\Debug\BegGive.pdb

@@ -1,0 +1,8 @@
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Chtholly\Documents\Tutorial\GuessingGame\obj\Debug\GuessingGame.pdb
